@@ -29,3 +29,9 @@ Especialista no ecossistema **JavaScript / TypeScript**, atuando no desenvolvime
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![New Relic](https://img.shields.io/badge/newrelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruyfreire/ruyfreire/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruyfreire/ruyfreire/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruyfreire/ruyfreire/output/github-contribution-grid-snake.svg">
+</picture>
